@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1536587619 source:d:\codeblocks_proj\examen_krok\src\weapon.cpp
+	"Weapon.h"
+
+1536867697 d:\codeblocks_proj\examen_krok\include\weapon.h
+
+1537004972 source:d:\codeblocks_proj\examen_krok\main.cpp
+	<iostream>
+	"Pers.h"
+	"Spiderman.h"
+	"Venom.h"
+	"Web.h"
+	"Claws.h"
+	"Bluffer.h"
+
+1537002805 d:\codeblocks_proj\examen_krok\include\pers.h
+	"Weapon.h"
+
+1536587619 source:d:\codeblocks_proj\examen_krok\src\pers.cpp
+	"Pers.h"
+
+1537002822 source:d:\codeblocks_proj\examen_krok\src\spiderman.cpp
+	"Spiderman.h"
+
+1537002805 d:\codeblocks_proj\examen_krok\include\spiderman.h
+	<Pers.h>
+
+1537002861 source:d:\codeblocks_proj\examen_krok\src\venom.cpp
+	"Venom.h"
+
+1537002805 d:\codeblocks_proj\examen_krok\include\venom.h
+	<Pers.h>
+
+1536867982 source:d:\codeblocks_proj\examen_krok\src\blaster.cpp
+	"Blaster.h"
+
+1536867821 d:\codeblocks_proj\examen_krok\include\blaster.h
+	"Weapon.h"
+
+1536846532 d:\codeblocks_proj\examen_krok\include\claws.h
+	<Weapon.h>
+
+1536867982 source:d:\codeblocks_proj\examen_krok\src\claws.cpp
+	"Claws.h"
+
+1537004453 source:d:\codeblocks_proj\examen_krok\src\bluffer.cpp
+	"Bluffer.h"
+
+1537004444 d:\codeblocks_proj\examen_krok\include\bluffer.h
+	<Pers.h>
+	<CentralBluf.h>
+
+1537004370 source:d:\codeblocks_proj\examen_krok\src\centralbluf.cpp
+	"CentralBluf.h"
+
+1537004370 d:\codeblocks_proj\examen_krok\include\centralbluf.h
+	"Pers.h"
+	"vector"
+
+1536846447 d:\codeblocks_proj\examen_krok\include\web.h
+	<Weapon.h>
+
+1537004957 source:d:\codeblocks_proj\examen_krok\src\web.cpp
+	"Web.h"
+
